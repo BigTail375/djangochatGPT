@@ -3,7 +3,7 @@ User chat with chatGpt using openAPI.
 
 ### Clone project use follwing command
 ```
-git clone https://github.com/ongraphpythondev/djangoChatAPI.git
+git clone https://github.com/BigTail375/djangochatGPT.git
 ```
 ### Create virtual enviorment and activate it 
 ```
